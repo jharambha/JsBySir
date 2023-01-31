@@ -1,0 +1,4 @@
+I would have made the input fields uneditable after one input
+print the array in divs of purple boxes in the start
+print the array before the each while loop of insertionSort() with key in blue rest in purple boxes
+print the array at the end of each while loop of insertionSort() with key and the term for comparison in white and what on left of comaprison element in pink(showing it's sorted) and what on left of key in purple (showing it's not visited)
